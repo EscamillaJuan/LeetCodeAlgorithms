@@ -36,3 +36,6 @@
 *.class
 *.jar
 
+# vscode
+*.vscode
+
