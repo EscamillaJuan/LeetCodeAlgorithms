@@ -1,3 +1,8 @@
+package zig_zag_conversion;
+
+import java.util.LinkedList;
+import java.util.List;
+
 class Solution {
     public String convert(String s, int numRows) {
         if(numRows == 1 || s.length() <= numRows) {
